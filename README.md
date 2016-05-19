@@ -1,5 +1,4 @@
 # BreBot
-Twitter Bot made for Breanne on her birthday using python
-
+Twitter Bot which tries to impersonate users
 Uses: https://github.com/tweepy and https://github.com/jsvine/markovify
 
